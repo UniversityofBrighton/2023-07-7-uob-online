@@ -24,7 +24,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %}
 HEADER
-8< ============================= until here ==================
 {% endcomment %}
 
 
